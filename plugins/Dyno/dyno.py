@@ -2,7 +2,7 @@ import os
 import math
 import time
 from info import ADMINS
-import heroku3
+import heroku
 import requests
 from pyrogram import Client, filters
 from database.users_chats_db import db
@@ -17,7 +17,7 @@ HEROKU_API_KEY = (os.environ.get("HEROKU_API_KEY", ""))
 async def bot_status_cmd(client,message):
     if HEROKU_API_KEY:
         try:
-            server = heroku3.from_key(HEROKU_API_KEY)
+            server = heroku.from_key(HEROKU_API_KEY)
 
             user_agent = (
                 'Mozilla/5.0 (Linux; Android 10; SM-G975F) '
