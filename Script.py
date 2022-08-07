@@ -76,6 +76,14 @@ This module only works for my OᗯᑎEᖇ⚡
 ✮ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ✮ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ✮ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    SOURCE_TXT = """<b>NOTE:</b>
+<b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
+𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 ~ 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶
+𝖮𝖳𝖧𝖤𝖱 𝖪𝖨𝖭𝖣 𝖡𝖮𝖳𝖲:
+𝖠𝖴𝖳𝖮 𝖥𝖨𝖫𝖳𝖤𝖱 : <a href=https://github.com/EvamariaTG/EvaMaria>𝖤𝗏𝖺 𝖬𝖺𝗋𝗂𝖺</a>
+𝖲𝖮𝖭𝖦 :  <a href=https://github.com/AsmSafone/RadioPlayerV2>𝖠𝗌𝗆𝖲𝖺𝖿𝗈𝗇𝖾</a>
+𝖥𝖨𝖫𝖳𝖤𝖱 : <a href=https://github.com/TroJanzHEX/Unlimited-Filter-Bot>𝖴𝗇𝗅𝗂𝗆𝗂𝗍𝖾𝖽 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍</a></b>
+"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
 ✮ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
 ✮ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>
